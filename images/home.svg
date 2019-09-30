@@ -1,0 +1,22 @@
+<svg width="47.99999999999999" height="47.99999999999999" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="Icons">
+   <g id="svg_1">
+    <line stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#303030" fill="none" id="svg_2" y2="18.83223" y1="13.21182" x2="16.68426" x1="22.30467" class="st1"/>
+    <polyline stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#303030" fill="none" id="svg_3" points="13.40793,23.55566 15.90442,39.13971 32.09287,39.13971 34.58978,23.5465   " class="st1"/>
+    <path stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#303030" fill="none" id="svg_4" d="m35.02038,19.17636l-9.82134,-9.82134c-0.32982,-0.32982 -0.76042,-0.49473 -1.20018,-0.49473c-0.4306,0 -0.87036,0.16491 -1.20018,0.49473l-9.82134,9.83051" class="st1"/>
+    <path stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#303030" fill="none" id="svg_5" d="m22.79867,9.35502c0.32982,-0.32982 0.76958,-0.49473 1.20018,-0.49473c0.43976,0 0.87036,0.16491 1.20018,0.49473l9.82134,9.82134l4.07696,4.07696c0.65964,0.65964 0.65964,1.73156 0,2.40037c-0.6688,0.65964 -1.74072,0.65964 -2.40037,0l-2.10719,-2.10719" class="st1"/>
+    <path stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#303030" fill="none" id="svg_6" d="m13.40793,23.55566l-2.09803,2.09803c-0.6688,0.65964 -1.74072,0.65964 -2.40037,0c-0.6688,-0.6688 -0.6688,-1.74072 0,-2.40037l4.0678,-4.06779l9.82134,-9.83051c0.32982,-0.32982 0.76958,-0.49473 1.20018,-0.49473c0.43976,0 0.87036,0.16491 1.20018,0.49473" class="st1"/>
+    <circle stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#303030" fill="none" id="svg_7" r="3.68949" cy="25.87584" cx="24.00082" class="st1"/>
+    <circle stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#303030" fill="none" id="svg_8" r="0.99337" cy="33.64859" cx="24.00082" class="st1"/>
+    <line stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#303030" fill="none" id="svg_9" y2="20.56142" y1="19.80091" x2="15.0282" x1="15.69364" class="st1"/>
+   </g>
+  </g>
+ </g>
+</svg>
